@@ -6,7 +6,8 @@ head{
 
 }
 title{
-
+	background-color: green;
+	color: white;
 }
 body{
 	background-color: cyan;
